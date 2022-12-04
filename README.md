@@ -15,5 +15,5 @@
 > :warning: To test the consumer API, the producer API need to be running!! </br>
 > here's a link to clone the consumer project ```url```
 
-### The Person that producer API sent will be catch here and save in a MONGO database
+### The Person (BODY) that producer API sent will be catch here and save in a MONGO database
 
