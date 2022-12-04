@@ -1,0 +1,6 @@
+show dbs
+use users
+show dbs
+use admin
+show dbsdmin
+show dbs
